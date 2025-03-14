@@ -4,6 +4,11 @@ Jean Carlo Yap
 BSIT 3RD YEAR - B3  
 Student ID: 2019-8-0055  
 
+**Objective**
+
+Write a complete 16-bit assembly language program that identifies the largest value in an array and
+stores it in memory.
+
 ```assembly
 ORG 100H  
 
